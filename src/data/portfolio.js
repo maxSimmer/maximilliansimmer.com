@@ -8,14 +8,14 @@
 
     {
         title: 'Portfolio Website',
-        imgUrl: '',
+        imgUrl: 'src/assets/dev-portfolio.jpg',
         stack: ['HTML', 'TailwindCSS', 'Javascript',],
         link: 'https://github.com/maxSimmer/minimalist-portfolio-copy',
     },
 
     {
         title: 'Java Arcade Machine',
-        imgUrl: '',
+        imgUrl: 'src/assets/ArcadeMachinePortfolioImage.jpg',
         stack: ['Java'],
         link: 'https://github.com/maxSimmer/COMP170-Arcade-Machine-Final-project',
     },
