@@ -1,7 +1,7 @@
  export default [
     {
         title: 'Graphics Based Rock Paper Scissors',
-        imgUrl: '',
+        imgUrl: 'src/assets/RPSPortfolioImage.jpg',
         stack: ['Python'],
         link: 'https://github.com/maxSimmer/COMP150-Graphics-based-Rock-Paper-Scissors-Python-',
     },
