@@ -14,7 +14,7 @@ function Intro() {
          The link can be found here, {' '}
          <a href="https://www.youtube.com/watch?v=b0pkpcD8Ms4&t=3531s"
                target="_blank"
-               className="text-cyan-600 hover:underline underline-offset-2 decoration-2 decoration-red-600"
+               className=" text-cyan-600 hover:underline underline-offset-1 decoration-1 decoration-red-600"
                rel="noreferrer noopener" >
                How to Build a Minimal Developer Portfolio Website Using React + Tailwind + Vite
             </a>{' '}
