@@ -10,13 +10,13 @@ function Intro() {
          mb-6 font-bold">I am currently a second year computer science student
          studying at Loyola University Chicago. On the side I study full-stack engineering 
          and game-development trying to create my version of reality through code.
-         <br /> This website was created following a code-along posted by Forrest Knight on youtube.
-         The link can be found here, {' '}
-         <a href="https://www.youtube.com/watch?v=b0pkpcD8Ms4&t=3531s"
+         <br /> In my free-time I enjoy trading the financial markets and skateboarding.
+         The link to my github can be found {' '}
+         <a href="https://github.com/maxSimmer?tab=repositories"
                target="_blank"
                className=" text-cyan-600 hover:underline underline-offset-1 decoration-1 decoration-red-600"
                rel="noreferrer noopener" >
-               How to Build a Minimal Developer Portfolio Website Using React + Tailwind + Vite
+               here.
             </a>{' '}
          </p>
       </div>

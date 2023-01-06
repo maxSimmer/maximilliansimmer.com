@@ -35,5 +35,14 @@ export default [
 
     },
 
+    {
+        year: 'Mid 2020',
+        title: 'First Lines of Code',
+        duration: "4 Months",
+        details: 
+            'My first lines of code were written in python.',
+
+    },
+
     
 ]
