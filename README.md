@@ -2,4 +2,4 @@
 
 ## Minimialist Portfolio Code-along
   * Source: Forrest Knight:
-  * Link:
+  * Link: https://maximilliansimmer.com/
