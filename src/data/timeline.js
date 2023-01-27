@@ -1,10 +1,10 @@
 export default [
     {
         year: '2023',
-        title: 'Java / Student',
+        title: 'Full-Stack Engineering + Java / Student',
         duration: "2+ Years and counting",
         details: 
-            'In the present day I am a student studying computer science at Loyola University Chicago',
+            'In the present day I am continuing to learn about non-linear data structures in Java, \non the side I am taking a full-stack course with codecademy.com as they provided a good deal for students.',
 
     },
 
@@ -13,36 +13,26 @@ export default [
         title: 'Java / Student',
         duration: "2 Years",
         details: 
-            'In the present day I am a student studying computer science at Loyola University Chicago',
+            'Through my second year I dug deeper into OOP languages with Java while also learning data structures and algorithms. \nAnother also taken was discrete mathematics.',
 
     },
 
     {
         year: '2021',
-        title: 'Python + Unix + Java / Student',
-        duration: "4 Months",
+        title: 'Python + Unix / Student',
+        duration: "8 Months",
         details: 
-            'My first lines of code were written in python.',
+            'I started off in school learning unix and github, while also learning python at the same time.',
 
     },
 
     {
         year: 'Mid 2020',
         title: 'First Lines of Code',
-        duration: "4 Months",
+        duration: "3 Months",
         details: 
-            'My first lines of code were written in python.',
+            'Before starting school I studied a little bit of python and created simple programs.',
 
     },
-
-    {
-        year: 'Mid 2020',
-        title: 'First Lines of Code',
-        duration: "4 Months",
-        details: 
-            'My first lines of code were written in python.',
-
-    },
-
     
 ]
