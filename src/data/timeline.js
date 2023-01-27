@@ -13,7 +13,7 @@ export default [
         title: 'Java / Student',
         duration: "2 Years",
         details: 
-            'Through my second year I dug deeper into OOP languages with Java while also learning data structures and algorithms. \nAnother also taken was discrete mathematics.',
+            'Through my second year I dug deeper into OOP languages with Java while also learning data structures and algorithms. \nAnother course also taken was discrete mathematics.',
 
     },
 
