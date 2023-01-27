@@ -16,7 +16,7 @@
     {
         title: 'Tech Website Replica',
         imgUrl: '/assets/tech ss.jpg',
-        stack: ['HTML, CSS'],
+        stack: ['HTML', 'CSS'],
         link: 'https://github.com/maxSimmer/COMP170-Arcade-Machine-Final-project',
     },
 
