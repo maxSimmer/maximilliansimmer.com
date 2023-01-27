@@ -8,7 +8,7 @@
 
     {
         title: 'Portfolio Website',
-        imgUrl: '/assets/dev-portfolio.jpg',
+        imgUrl: '/assets/portfolioimg.jpg',
         stack: ['HTML', 'TailwindCSS', 'Javascript',],
         link: 'https://github.com/maxSimmer/minimalist-portfolio-copy',
     },
