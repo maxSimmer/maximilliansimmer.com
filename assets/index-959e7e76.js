@@ -55,7 +55,7 @@ Another also taken was discrete mathematics.`},{year:"2021",title:"Python + Unix
                     border-2 rounded-md focus:outline-none`}),z("input",{type:"text",name:"email",placeholder:"Email",className:`my-2 p-2 bg-transparent border-2
                     rounded-md focus:outline-none`}),z("textarea",{name:"message",placeholder:"Message",rows:"10",className:`p-2 mb-4 bg-transparent
                     border-2 rounded-md
-                    focus:outline-none`}),z("button",{type:"button",className:`text-center inline-block
+                    focus:outline-none`}),z("button",{type:"submit",className:`text-center inline-block
                     px-8 py-3 w-max text-base font-medium
                     rounded-md text-white
                     bg-gradient-to-r from-yellow-500
