@@ -29,7 +29,7 @@
 
     {
         title: 'CSED Database',
-        imgUrl: '/assets/ArcadeMachinePortfolioImage.jpg',
+        imgUrl: '/assets/10-19_ERDiagramUpdated_DoubleLines.png',
         stack: ['Python, MongoDB, SQLAlchemy'],
         link: 'https://github.com/maxSimmer/CSED-DBMS-and-ORM-',
     },
