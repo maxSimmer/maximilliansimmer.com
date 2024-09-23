@@ -36,7 +36,7 @@
 
     {
         title: 'Asteroid Classification Model',
-        imgUrl: '/assets/ArcadeMachinePortfolioImage.jpg',
+        imgUrl: '/assets/asteroid ML image.png',
         stack: ['Python, numpy, pandas, scikit, madplotlib, seaborn'],
         link: 'https://github.com/maxSimmer/CSED-DBMS-and-ORM-',
     },
