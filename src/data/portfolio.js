@@ -21,13 +21,6 @@
     },
 
     {
-        title: 'Java Arcade Machine',
-        imgUrl: '/assets/ArcadeMachinePortfolioImage.jpg',
-        stack: ['Java'],
-        link: 'https://github.com/maxSimmer/COMP170-Arcade-Machine-Final-project',
-    },
-
-    {
         title: 'CSED Database',
         imgUrl: '/assets/10-19_ERDiagramUpdated_DoubleLines.png',
         stack: ['Python, MongoDB, SQLAlchemy'],
