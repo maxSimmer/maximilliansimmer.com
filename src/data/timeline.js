@@ -1,10 +1,20 @@
 export default [
+
+    {
+        year: '2024',
+        title: 'Student',
+        duration: "4 Years",
+        details: 
+            'Learning more indepth about database engineering with codecademy.com and their career path. \n School work includes software engineering and mobile developement.',
+
+    },
+
     {
         year: '2023',
-        title: 'Full-Stack Engineering + Java / Student',
-        duration: "2+ Years and counting",
+        title: 'Student',
+        duration: "3 Years",
         details: 
-            'In the present day I am continuing to learn about non-linear data structures in Java, \non the side I am taking a full-stack course with codecademy.com as they provided a good deal for students.',
+            'Continued using Java and Python throughout courses while learning about new topics. \n Started to gain interest in database engineering.',
 
     },
 
@@ -13,25 +23,25 @@ export default [
         title: 'Java / Student',
         duration: "2 Years",
         details: 
-            'Through my second year I dug deeper into OOP languages with Java while also learning data structures and algorithms. \nAnother course also taken was discrete mathematics.',
+            'Through my second year I dug deeper into OOP with Java while also learning about data structures and algorithms. \nAnother course also taken was discrete mathematics.',
 
     },
 
     {
-        year: '2021',
-        title: 'Python + Unix / Student',
-        duration: "8 Months",
+        year: 'Fall 2021',
+        title: 'Python / Student',
+        duration: "1 Year",
         details: 
-            'I started off in school learning unix and github, while also learning python at the same time.',
+            'Started studying computer science at Loyola University Chicago. Curriculum started with Python and UNIX.',
 
     },
 
     {
-        year: 'Mid 2020',
+        year: 'May 2020',
         title: 'First Lines of Code',
         duration: "3 Months",
         details: 
-            'Before starting school I studied a little bit of python and created simple programs.',
+            'A couple months before starting university I looked into programming and learned the basics of Python',
 
     },
     
