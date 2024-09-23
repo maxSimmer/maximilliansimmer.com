@@ -27,4 +27,20 @@
         link: 'https://github.com/maxSimmer/COMP170-Arcade-Machine-Final-project',
     },
 
+    {
+        title: 'CSED Database',
+        imgUrl: '/assets/ArcadeMachinePortfolioImage.jpg',
+        stack: ['Python, MongoDB, SQLAlchemy'],
+        link: 'https://github.com/maxSimmer/CSED-DBMS-and-ORM-',
+    },
+
+    {
+        title: 'Asteroid Classification Model',
+        imgUrl: '/assets/ArcadeMachinePortfolioImage.jpg',
+        stack: ['Python, numpy, pandas, scikit, madplotlib, seaborn'],
+        link: 'https://github.com/maxSimmer/CSED-DBMS-and-ORM-',
+    },
+
+    
+
 ] 
