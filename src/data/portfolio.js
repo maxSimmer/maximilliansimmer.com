@@ -17,7 +17,7 @@
         title: 'Tech Website Replica',
         imgUrl: '/assets/tech ss.jpg',
         stack: ['HTML', 'CSS'],
-        link: 'https://github.com/maxSimmer/COMP170-Arcade-Machine-Final-project',
+        link: 'https://github.com/maxSimmer/Tech-Website-Replica-',
     },
 
     {
@@ -31,7 +31,7 @@
         title: 'Asteroid Classification Model',
         imgUrl: '/assets/asteroid ML image.png',
         stack: ['Python, numpy, pandas, scikit, madplotlib, seaborn'],
-        link: 'https://github.com/maxSimmer/CSED-DBMS-and-ORM-',
+        link: 'https://colab.research.google.com/drive/14BE1Xl8SF7mOW0x0rpPp1nwmS3ZP5VVg?usp=sharing',
     },
 
     
