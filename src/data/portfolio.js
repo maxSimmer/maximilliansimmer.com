@@ -15,6 +15,13 @@
     },
 
     {
+        title: 'Open-Source EssentialsX Bug Fixes (Minecraft)',
+        imgUrl: '/assets/essentials_bug_fix.png',
+        stack: ['Java'],
+        link: 'https://github.com/IgorPono/Essentials',
+    },
+
+    {
         title: 'Tech Website Replica',
         imgUrl: '/assets/tech ss.jpg',
         stack: ['HTML', 'CSS'],
