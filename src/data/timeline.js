@@ -5,7 +5,7 @@ export default [
         title: 'Student',
         duration: "1 Year",
         details: 
-            'Learning more indepth about database engineering with codecademy.com and their career path. \n School work includes software engineering and mobile developement. \n Took a machine learning course at Yonsei University in South Korea for a summer study abroad. Learned about models such as SVMs and other basic models.',
+            'Learning more indepth about database engineering with codecademy.com and their career path. \n School work includes software engineering and mobile developement. \n Contributed to EssentialsX open-source project with bug fixes. \n Took a machine learning course at Yonsei University in South Korea for a summer study abroad. Learned about models such as SVMs and other basic models.',
 
     },
 
