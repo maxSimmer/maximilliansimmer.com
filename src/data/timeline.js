@@ -14,7 +14,7 @@ export default [
         title: 'Student',
         duration: "1 Year",
         details: 
-            'Continued using Java and Python throughout courses while learning about new topics. \n Started to gain interest in database engineering.',
+            'Continued using Java and Python throughout courses while learning about new topics. \n Started to gain interest in database engineering. \n Create relational database and ORM system for non-profit.',
 
     },
 
