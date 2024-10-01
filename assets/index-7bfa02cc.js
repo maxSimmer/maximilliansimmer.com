@@ -43,7 +43,8 @@ Error generating stack: `+o.message+`
  School work includes software engineering and mobile developement. 
  Contributed to EssentialsX open-source project with bug fixes. 
  Took a machine learning course at Yonsei University in South Korea for a summer study abroad. Learned about models such as SVMs and other basic models.`},{year:"2023",title:"Student",duration:"1 Year",details:`Continued using Java and Python throughout courses while learning about new topics. 
- Started to gain interest in database engineering.`},{year:"2022",title:"Student",duration:"1 Year",details:`Through my second year I dug deeper into OOP with Java while also learning about data structures and algorithms. 
+ Started to gain interest in database engineering. 
+ Create relational database and ORM system for non-profit.`},{year:"2022",title:"Student",duration:"1 Year",details:`Through my second year I dug deeper into OOP with Java while also learning about data structures and algorithms. 
 Another course also taken was discrete mathematics.`},{year:"Fall 2021",title:"Student",duration:"1 Year",details:"Started studying computer science at Loyola University Chicago. Curriculum started with Python and UNIX."},{year:"May 2020",title:"First Lines of Code",duration:"3 Months",details:"A couple months before starting university I looked into programming and learned the basics of Python"}];function Fd({year:e,title:t,duration:n,details:r}){return z("ol",{className:`flex flex-col md:flex-row relative 
         border-l border-stone-200 dark:border-stone-700`,children:Ee("li",{className:"mb-10 ml-4",children:[z("div",{className:`absolute w-3 h-3 bg-red-200 rounded-full mt-1.5
                  -left-1.5 border border-white dark:border-stone-900 dark:bg-red-200`}),Ee("p",{className:`flex flex-wrap gap-4 flex-row items-center
