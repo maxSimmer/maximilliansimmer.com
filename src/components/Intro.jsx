@@ -9,7 +9,7 @@ function Intro() {
          <p class="text-sm max-w-xl
          mb-6 font-bold">Currently a fourth-year computer science student at Loyola University Chicago. Plans to go into database
          engineering and to get my masters post graduation. 
-         <br /> In my free-time I enjoy trading the futures markets and skateboarding.
+         <br /> In my free-time I enjoy traveling and skateboarding.
          The link to my github can be found {' '}
          <a href="https://github.com/maxSimmer?tab=repositories"
                target="_blank"

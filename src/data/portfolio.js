@@ -10,7 +10,7 @@
     {
         title: 'CSED Non-Profit Database',
         imgUrl: '/assets/10-19_ERDiagramUpdated_DoubleLines.png',
-        stack: ['Python, MongoDB, SQLAlchemy'],
+        stack: ['Python, MongoDB, SQLAlchemy, Postgres'],
         link: 'https://github.com/maxSimmer/CSED-DBMS-and-ORM-',
     },
 
