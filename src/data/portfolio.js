@@ -1,6 +1,20 @@
  export default [
 
     {
+        title: 'Pathfinder Pro (Ongoing Travel AI Android App)',
+        imgUrl: '/assets/asteroid ML image.png',
+        stack: ['JavaScript, React Native'],
+        link: '',
+    },
+
+    {
+        title: 'EyeSpy Drone - Facial Recognition (Ongoing student led project)',
+        imgUrl: '/assets/asteroid ML image.png',
+        stack: ['Python, SQL?, OpenCV'],
+        link: '',
+    },
+
+    {
         title: 'Asteroid Classification Model',
         imgUrl: '/assets/asteroid ML image.png',
         stack: ['Python, numpy, pandas, scikit, madplotlib, seaborn'],
