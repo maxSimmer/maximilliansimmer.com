@@ -9,7 +9,7 @@
 
     {
         title: 'EyeSpy Drone - Facial Recognition (Ongoing student led project)',
-        imgUrl: '/assets/dronePortIMG.png',
+        imgUrl: '/assets/dronePortIMG.jpg',
         stack: ['Python, SQL, and OpenCV'],
         link: '',
     },
