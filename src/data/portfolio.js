@@ -1,16 +1,16 @@
  export default [
 
     {
-        title: 'Pathfinder Pro (Ongoing Travel AI Android App)',
+        title: 'Pathfinder Pro (Travel Planner Android App) (In-Progress)',
         imgUrl: '/assets/travelAppIMG.png',
         stack: ['JavaScript and React Native'],
         link: 'https://github.com/cmvasquez/TravelApp-322',
     },
 
     {
-        title: 'EyeSpy Drone - Facial Recognition (Ongoing student led project)',
+        title: 'EyeSpy Survelience Drone (Student Led Project - Software Lead) (In-Progress)',
         imgUrl: '/assets/dronePortIMG.jpg',
-        stack: ['Python, SQL, and OpenCV'],
+        stack: ['Python, MongoDB, and OpenCV'],
         link: '',
     },
 
