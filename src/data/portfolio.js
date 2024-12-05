@@ -1,9 +1,9 @@
  export default [
 
     {
-        title: 'Pathfinder Pro (Travel Planner Android App) (In-Progress)',
-        imgUrl: '/assets/travelAppIMG.png',
-        stack: ['JavaScript and React Native'],
+        title: 'Pathfinder Pro (AI Travel Plan App)',
+        imgUrl: '/assets/322portfolioimg.png',
+        stack: ['JavaScript, React Native, and CSS'],
         link: 'https://github.com/cmvasquez/TravelApp-322',
     },
 
