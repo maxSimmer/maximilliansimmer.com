@@ -5,15 +5,15 @@ export default [
         imgUrl: '/assets/322portfolioimg.png',
         stack: ['JavaScript, React Native, and CSS'],
         link: 'https://github.com/cmvasquez/TravelApp-322',
-        description: 'An AI-powered travel planning app that helps users create personalized travel itineraries.'
+        description: 'AI Powered planner app for android. Utilizes firebase for authentication, firestore for the database, and multiple APIs to pull data. Fully functional.'
     },
 
     {
-        title: 'EyeSpy Survelience Drone (Student Led Project - Software Lead) (In-Progress)',
+        title: 'EyeSpy Survelience Drone (Student Led Project) (In-Progress)',
         imgUrl: '/assets/dronePortIMG.jpg',
         stack: ['Python, MongoDB, and OpenCV'],
         link: '',
-        description: 'A surveillance drone project utilizing Python, MongoDB, and OpenCV for real-time monitoring.'
+        description: 'Project consisting of hardware/software teams. Software focusing on creating an application that connects to the drone, and preforms facial recognition on stored faces.'
     },
 
     {
@@ -21,7 +21,7 @@ export default [
         imgUrl: '/assets/asteroid ML image.png',
         stack: ['Python, numpy, pandas, scikit, madplotlib, seaborn'],
         link: 'https://colab.research.google.com/drive/14BE1Xl8SF7mOW0x0rpPp1nwmS3ZP5VVg?usp=sharing',
-        description: 'A machine learning model for classifying asteroids using various Python libraries.'
+        description: 'A machine learning model for classifying asteroids (risk) using various Python libraries.'
     },
 
     {
@@ -33,7 +33,7 @@ export default [
     },
 
     {
-        title: 'Open-Source EssentialsX Bug Fixes (Minecraft)',
+        title: 'Open-Source EssentialsX Bug Fixes',
         imgUrl: '/assets/essentials_bug_fix.png',
         stack: ['Java'],
         link: 'https://github.com/IgorPono/Essentials',
@@ -41,19 +41,11 @@ export default [
     },
 
     {
-        title: 'Tech Website Replica',
-        imgUrl: '/assets/tech ss.jpg',
-        stack: ['HTML', 'CSS'],
-        link: 'https://github.com/maxSimmer/Tech-Website-Replica-',
-        description: 'A replica of a tech website built using HTML and CSS.'
-    },
-
-    {
         title: 'Portfolio Website',
         imgUrl: '/assets/portfolioimg.jpg',
         stack: ['HTML', 'TailwindCSS', 'Javascript',],
         link: 'https://github.com/maxSimmer/minimalist-portfolio-copy',
-        description: 'A personal portfolio website showcasing various projects and skills.'
+        description: 'A personal portfolio website showcasing various projects.'
     },
 
     {
