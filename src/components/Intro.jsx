@@ -7,8 +7,8 @@ function Intro() {
          md:mb-3 dark:text-white font-bold'>Maximillian Simmer</h1>
          <p class="text-base md:text-x1 mb-3 font-medium">Computer Science Student</p>
          <p class="text-sm max-w-xl
-         mb-6 font-bold">Currently a fourth-year computer science student at Loyola University Chicago. Expected graduation May 2025. 
-         <br /> In my free-time I enjoy traveling and skateboarding.
+         mb-6 font-bold">Currently a fourth-year computer science student at Loyola University Chicago with interests in database engineering and software development. Expected graduation May 2025. 
+         <br /> In my free-time I enjoy traveling, skateboarding, and analyzing financial markets.
          The link to my github can be found {' '}
          <a href="https://github.com/maxSimmer?tab=repositories"
                target="_blank"

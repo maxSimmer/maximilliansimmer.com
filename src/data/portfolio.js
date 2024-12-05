@@ -21,7 +21,7 @@ export default [
         imgUrl: '/assets/asteroid ML image.png',
         stack: ['Python, numpy, pandas, scikit, madplotlib, seaborn'],
         link: 'https://colab.research.google.com/drive/14BE1Xl8SF7mOW0x0rpPp1nwmS3ZP5VVg?usp=sharing',
-        description: 'A machine learning model for classifying asteroids (risk) using various Python libraries.'
+        description: 'A machine learning model for classifying asteroids (risk) using various Python libraries and decision tree classifiers/regressors.'
     },
 
     {
