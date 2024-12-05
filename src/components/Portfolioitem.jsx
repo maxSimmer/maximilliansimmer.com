@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Portfolioitem({ title, imgUrl, stack, link }) {
+function Portfolioitem({ title, imgUrl, stack, link, description }) {
     return (
         <a href={link}
         target="_blank"
@@ -15,6 +15,7 @@ function Portfolioitem({ title, imgUrl, stack, link }) {
         />
         <div className='w-full p-4'>
             <h3 className='text-lg md:text-xl dark:text-white mb-2 md:mb-3 font-semibold'>{title}</h3>
+            <p className='text-sm dark:text-stone-400 mb-2'>{description}</p>
             <p className='flex flex-wrap gap-2 flex-row items-center justify-start
             text-xs md:textsm dark:text-white'>
                 {stack.map(item => (
