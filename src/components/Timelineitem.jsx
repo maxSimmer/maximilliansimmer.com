@@ -2,31 +2,34 @@ import React from 'react';
 
 function Timelineitem({ year, title, duration, details}) {
     return (
-        <ol className='flex flex-col md:flex-row relative 
-        border-l border-stone-200 dark:border-stone-700'>
-            <li className='mb-10 ml-4'>
-                <div className='absolute w-3 h-3 bg-red-200 rounded-full mt-1.5
-                 -left-1.5 border border-white dark:border-stone-900 dark:bg-red-200' />
-                <p className='flex flex-wrap gap-4 flex-row items-center
-                justify-start text-xs md:text-sm'> 
+        <div className='relative px-4 w-64'>
+            <div className='h-1 bg-stone-200 dark:bg-stone-700 w-full absolute top-8'/>
+            <div className='relative'>
+                <div className='w-4 h-4 bg-red-200 rounded-full absolute left-1/2 
+                transform -translate-x-1/2 -translate-y-1/2 mt-8 
+                border-2 border-white dark:border-stone-900'/>
+                
+                <div className='pt-10 text-center'>
                     <span className='inline-block px-2 py-1 font-semibold
                     text-white dark:text-stone-900 bg-stone-900 dark:bg-white rounded-md'>
                         {year}
                     </span>
-                    <h3 className='text-lg font-semibold text-stone-900 dark:text-white'>
+                    
+                    <h3 className='text-lg font-semibold text-stone-900 dark:text-white mt-2'>
                         {title}
-                        <div className='my-1 text-sm font-normal leading-none
-                        text-stone-400 dark:text-stone-500'>
+                        <div className='text-sm font-normal leading-none
+                        text-stone-400 dark:text-stone-500 mt-1'>
                             {duration}
                         </div>
                     </h3>
-                </p>
-                <p className='my-2 text-base font-normal text-stone-500 dark:text-stone-400'>
-                    {details}
-                </p>
-            </li>
-
-        </ol>
+                    
+                    <p className='mt-2 text-sm font-normal text-stone-500 dark:text-stone-400
+                    max-h-32 overflow-y-auto'>
+                        {details}
+                    </p>
+                </div>
+            </div>
+        </div>
     )
 }
 

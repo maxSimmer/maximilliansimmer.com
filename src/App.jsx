@@ -1,4 +1,3 @@
-
 import React, {useEffect, useState} from 'react';
 import Intro from './components/Intro';
 import Timeline from './components/Timeline';
@@ -78,10 +77,10 @@ function App() {
       {theme === 'dark' ? sun : moon}
 	
     </button>
-    <div className="bg-white
-    dark:bg-stone-900 text-stone-900 
-    dark:text-stone-300 min-h-screen
-    font-inter">
+    <div className="min-h-screen font-inter
+      from-blue-200 via-purple-100 to-rose-200 bg-gradient-to-br
+      dark:from-gray-900 dark:via-stone-900 dark:to-slate-900 dark:bg-gradient-to-br 
+      text-stone-900 dark:text-stone-300">
       <div className='max-w-5x1 w-11/12 mx-auto'>
       <Intro />
       <Portfolio />

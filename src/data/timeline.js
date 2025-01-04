@@ -1,6 +1,15 @@
 export default [
 
     {
+        year: '2025',
+        title: 'Student Intern',
+        duration: "1 Year",
+        details: 
+            'Final semesters at school focuses on software quality, assurance, and testing. Web design internship at a music company.',
+
+    },
+
+    {
         year: '2024',
         title: 'Student',
         duration: "1 Year",
@@ -33,15 +42,6 @@ export default [
         duration: "1 Year",
         details: 
             'Started studying computer science at Loyola University Chicago. Curriculum started with Python and UNIX.',
-
-    },
-
-    {
-        year: 'May 2020',
-        title: 'First Lines of Code',
-        duration: "3 Months",
-        details: 
-            'A couple months before starting university I looked into programming and learned the basics of Python',
 
     },
     

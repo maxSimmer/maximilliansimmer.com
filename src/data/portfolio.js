@@ -5,15 +5,23 @@ export default [
         imgUrl: '/assets/322portfolioimg.png',
         stack: ['JavaScript, React Native, and CSS'],
         link: 'https://github.com/cmvasquez/TravelApp-322',
-        description: 'AI Powered planner app for android. Utilizes firebase for authentication, firestore for the database, and multiple APIs to pull data. Fully functional.'
+        description: 'AI Powered planner app for android. Utilizes firebase for authentication, firestore for the database, and multiple APIs to pull data. Trip generation uses Google Gemini API to generate a trip based on user preferences.'
     },
 
     {
-        title: 'EyeSpy Survelience Drone (Student Led Project) (In-Progress)',
+        title: 'Gym Management System (Process over implementation)',
+        imgUrl: '/assets/swehealth.png',
+        stack: ['Java'],
+        link: '',
+        description: 'Focus was on the process of creating software. Going over customer requirements, design, software quality, and quality assurance in a large team setting. Replicates creating software from scratch for a customer in a company setting.'
+    },
+
+    {
+        title: 'EyeSpy Survelience Drone',
         imgUrl: '/assets/dronePortIMG.jpg',
         stack: ['Python, MongoDB, and OpenCV'],
         link: '',
-        description: 'Project consisting of hardware/software teams. Software focusing on creating an application that connects to the drone, and preforms facial recognition on stored faces.'
+        description: 'Project consisting of hardware/software teams. Software focusing on creating an application that connects to the drone, and preforms facial recognition on stored faces and notifies owner.'
     },
 
     {

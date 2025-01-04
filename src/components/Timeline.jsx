@@ -5,17 +5,21 @@ import Title from './Title';
 
 function Timeline() {
     return (
-        <div className='flex flex-col md:flex-row justify-center my-20 '>
-            <div className='w-full md:w-7/12'>
+        <div className='my-20'>
+            <div className='text-center mb-8'>
                 <Title>Timeline</Title>
-            {timeline.map(item => (
-                <Timelineitem 
-                year = {item.year}
-                title = {item.title}
-                duration = {item.duration}
-                details = {item.details}
-                />
-            ))}
+            </div>
+            <div className='overflow-x-auto'>
+                <div className='flex flex-row min-w-max px-4 justify-center mx-auto'>
+                    {[...timeline].reverse().map(item => (
+                        <Timelineitem 
+                        year = {item.year}
+                        title = {item.title}
+                        duration = {item.duration}
+                        details = {item.details}
+                        />
+                    ))}
+                </div>
             </div>
         </div>
     )
