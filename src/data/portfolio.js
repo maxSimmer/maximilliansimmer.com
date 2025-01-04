@@ -2,7 +2,7 @@ export default [
 
     {
         title: 'Crypto Transaction Mapper',
-        imgUrl: '/assets/cryptracker.png',
+        imgUrl: '/assets/cryptotracker.png',
         stack: ['HTML, CSS, JavaScript, React, Node.js, GraphQL'],
         link: '',
         description: 'A web application that allows users to view crypto transaction history as well as creating continous network graphs of transactions. Utilizes Bitquery API for blockchain data. Once the graph is created and saved, the transactions and map are auto analyzed and a threat report is generated on where the funds go. Used to combat crypto scams and fraud.'
